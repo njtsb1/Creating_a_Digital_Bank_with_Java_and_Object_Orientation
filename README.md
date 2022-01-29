@@ -21,10 +21,10 @@ Then type:
 ## Abstraction
 Ability to concentrate on essential aspects of a domain, ignoring less important or accidental ones. In this context, objects are abstractions of existing entities with no domain in question.
 
-## encapsulation
+## Encapsulation
 Encapsulating means hiding an implementation from objects, creating more concise and easier to use/understand user interfaces. Encapsulation mainly favored two aspects of a system: maintenance and evolution.
 
-##Heritage
+## Heritage
 Allows you to define a child class that reuses (inherits), extends, or modifies the behavior of a parent class. The class is known to inherit from the base class. The class that inherits the members of the base class is called a derived class.
 
 ## Polymorphism
