@@ -1,3 +1,5 @@
+Daily Learning
+
 # Creating a Digital Bank with Java and Object Orientation
 Considering the knowledge in the banking domain, I made an object-oriented solution in Java. For this, I interpreted the following scenario: “A bank offers its customers two types of accounts (current and savings), as they have deposit, withdrawal and download functionalities (between the institution's own accounts).
 
@@ -7,7 +9,7 @@ Considering the knowledge in the banking domain, I made an object-oriented solut
 - IDE
 
 ## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
 
 ## Commands
 - Probably your IDE has a button to run the project, if not, follow these steps to run the project:
