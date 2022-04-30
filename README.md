@@ -1,5 +1,8 @@
 Daily Learning
 
+Project developed in Digital Innovation One's GFT Start #3 Java with expert instruction [Venilton FalvoJr](https://www.linkedin.com/in/falvojr/ "Venilton FalvoJr"). 
+Learning to create a Digital Bank with Object Oriented Programming (OOP) in Java.
+
 # Creating a Digital Bank with Java and Object Orientation
 Considering the knowledge in the banking domain, I made an object-oriented solution in Java. For this, I interpreted the following scenario: “A bank offers its customers two types of accounts (current and savings), as they have deposit, withdrawal and download functionalities (between the institution's own accounts).
 
